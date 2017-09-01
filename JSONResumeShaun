@@ -1,0 +1,142 @@
+{
+
+	"basics": {
+		"name": "Shaun Glaze",
+		"label": "Applied Data Scientist",
+		"picture": "",
+		"email": "shaun.glaze@gmail.com",
+		"phone": "(832) 766-2511",
+		"website": "https://about.me/glaze",
+		"location": {
+			"address": "3233 Conkling Pl W",
+			"postalCode": "WA 98119",
+			"city": "Seattle",
+			"countryCode": "US",
+			"region": "Washington"
+		},
+    
+		"summary": ["Applied researcher with 8 years of experience in collaborative and action-oriented research. Project management for multidisciplinary collaborations across public, nonprofit, and private sectors. Database query, data-mining, and data stewardship experience."]
+	},
+
+	"work": [{
+			"company1": "Boston College",
+			"position": "President",
+			"website": "http://bc.edu",
+			"startDate": "2013-01-01",
+			"endDate": "2014-01-01",
+			"summary": ["Developed participatory research trainings and practices to extend partners’ capacities. Co-developed Know Your Rights workshops for migrant community organizations. Built consensus on goals and timeline for diverse Community-University teams. Prepared, reviewed, presented statistical/qualitative reports"]
+		},
+
+		{
+			"company": "UMass Boston",
+			"position": "Graduate Research Assistant, Apprentice",
+			"website": "http://company.com",
+			"startDate": "2013-01-01",
+			"endDate": "2014-01-01",
+			"summary": ["Conducted semi-structured trauma interviews and surveys with migrant families. Analyzed data for statistical trends and correlations using SPSS. Identified Participatory Action Research (PAR) literature for policy development. Collected data from public databases and academic repositories to perform policy analyses and literature reviews. Resolved computer issues and filled technical skill gaps to facilitate collaborative research"]
+		},
+
+		{
+			"company": "UMass Boston",
+			"position": "Graduate Research Assistant, Apprentice",
+			"website": "http://company.com",
+			"startDate": "2013-01-01",
+			"endDate": "2014-01-01",
+			"summary": "Managed OpenCourseWare project at University of Massachusetts Boston. Collaborated with Boston Public Schools directors and educators on new initiatives. Developed and administered workshops to disseminate knowledge to school staff. Evaluated workshops using staff survey data to determine areas for improvement",
+			"highlights": [
+				"Analyzing data to support teachers using open education data for their evidenced-based practice"
+			]
+		}
+	],
+	"education": [{
+			"institution": "Boston College",
+			"area": "Applied Developmental and Educational Psychology",
+			"studyType": "Doctorate",
+			"startDate": "2012-09-01",
+			"endDate": "2017-12-01",
+			"courses": {
+				"Diversity and Inclusion": "Human Rights and International Justice. Developmental Contexts. Critical Race Theory.",
+				"Research Methodology": "Program Evaluation. Mixed Methods. Advanced Qualitative Research Methods. Participatory Action Research. Doctoral Research Methods (includes experimental, quasi-experimental, natural designs). Intermediate Statistics. General Linear Models."
+			}
+		},
+		{
+			"institution": "University of Massachusetts- Boston",
+			"area": "Family Therapy",
+			"studyType": "Masters",
+			"startDate": "2009-09-01",
+			"endDate": "2012-08-01",
+			"courses": {
+				"Diversity and Inclusion": "Independent Study on Gender and Racial Development. Multicultural Counseling. Schools and Cultural Competency.",
+				"Research Methodology": "Research Methods."
+			}
+		},
+		{
+			"institution": "The University of Texas at Austin",
+			"area": "Linguistics (premed)",
+			"minor": "Biology",
+			"studyType": "Bachelors",
+			"startDate": "2009-09-01",
+			"endDate": "2012-08-01"
+
+		}
+	],
+	"presentations": [{
+
+			"name": "Research Reports",
+			"title": "District 7 Progressive Income Tax May 2017 Town Hall Report. Congressional District Demographic and Political Briefings",
+			"releaseDate": "2017",
+			"summary": "Reports detailing how constituent feedback and demographics may inform future policies for policymakers"
+		},
+		{
+			"name": "Conference Sessions",
+			"title": "Linguistic Isolation and the Parent-Child Relationship in Migrant Families. Antiracist Activism on College Campuses–A Toolkit to Engage Institutional Transformation (Session at the annual meeting of the American Psychological Association)",
+			"releaseDate": "2016 - 2017",
+			"summary": "Skill-building sessions and training on how to engage race and culture towards beneficial outcomes"
+		},
+		{
+			"name": "Academic Presentations",
+			"title": "Documenting Migrants’ Intergenerational Experiences with English Language. Learning towards Improving Access, Multilingualism and Community Advocacy. Critical Race Spatial Analysis: Mapping and Justice in East Boston and Revere",
+			"releaseDate": "2015",
+			"summary": "Documenting how policy contstrains diverse families' choices in access to housing, health, and linguistic services."
+		}
+	],
+	"skills": [{
+		"name": "Data Analysis",
+		"level": "Advanced",
+		"keywords": {
+			"software": "NVIVO. SPSS. Rattle (R package). QGIS",
+			"languages": "R. Python. SQL (MySQL). Octave",
+			"operating systems": "Windows. Mac OS, Ubuntu",
+			"Data sources": "Survey. Focus group. Policy text. Spatial data. Behavioral Assessment. Interview. Photo-elicitation."
+		}
+	}, {
+		"name": "Research Skills",
+		"level": "Advanced",
+		"summary": "Collaboratively and independently implement qualitative, quantiative, and mixed-methods analyses from study start to finish. Graduate training in program evaluation, participatory research, and behavioral analyses"
+	}, {
+		"name": "Research Project Management",
+		"level": "Advanced",
+		"summary": "Provide administrative support to multi-agency community and action research projects. Create and implement data security protocols and training"
+	}, {
+		"name": "Diversity, Inclusion, and Social Justice",
+		"summary": "Proven ability to lead, manage and train racially and linguistically diverse teams towards actionable goals. Design research training to teach formal research methods to multi-disciplinary teams"
+	}],
+	"languages": [{
+		"name": "English. Spanish",
+		"level": "Advanced"
+	}],
+	"interests": [{
+		"name": "Social Justice. Policy . Data Geekery",
+		"keywords": [
+			"Diversity",
+			"Representation",
+			"Anti-racism",
+			"Intersectionality"
+		]
+	}],
+	"references": [{
+		"name": "Brinton Lykes",
+		"email": "lykes@bc.edu."
+	}]
+
+}
